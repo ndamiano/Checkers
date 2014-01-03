@@ -1,0 +1,1 @@
+javac -Xlint -cp bin;lib/Debug.jar -d bin src/edu/mccc/cos102/interfaces/*.java src/edu/mccc/cos102/abstracts/*.java src/edu/mccc/cos102/ds/*.java src/edu/mccc/cos102/ds/impl/*.java src/edu/mccc/cos102/ds/graph/*.java src/edu/mccc/cos102/checkers/*.java
